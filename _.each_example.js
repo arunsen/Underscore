@@ -7,10 +7,10 @@ var utilityArray1 = [{
 }];
 
 var utilityArray2 = [{
- "Name" : "BOB",
+ "Name" : "Randy",
  "age" : 27
 }, {
- "Name" : "Kevin",
+ "Name" : "Peter",
  "age" : 21
 }];
 
