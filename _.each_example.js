@@ -11,7 +11,7 @@ var utilityArray2 = [{
  "age" : 27
 }, {
  "Name" : "Kevin",
- "age" : 22
+ "age" : 21
 }];
 
 _.each(utilityArray1, function(Obj1) {
